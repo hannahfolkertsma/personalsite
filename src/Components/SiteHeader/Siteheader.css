@@ -1,0 +1,9 @@
+.headerlabels {
+    table-layout: fixed;
+    border-bottom: solid 2px #014035;
+    padding-bottom: 3vh;
+}
+
+.headerlabels td{
+    width: 33vw;
+}
